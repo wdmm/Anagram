@@ -13,10 +13,6 @@
   	1) Open CMD
 	2) Change path, where is the .java file with the program
 	3) Compile the program.
-	```
-	javac Inther.java
-	```
+	`javac Inther.java`
 	4) Start the program, transmitting as the first argument the sample.txt file (each new line word).
-	```
-	java Inther sample.txt
-	```
+	`java Inther sample.txt`
